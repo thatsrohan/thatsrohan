@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:7F00FF&height=120&section=header"/>
-
 ```bash
 ██████╗  ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
 ██╔══██╗██╔═══██╗██║  ██║██╔══██╗████╗  ██║
@@ -12,41 +10,36 @@ rohan@github:~$ whoami
 > Rohan Gupta
 
 rohan@github:~$ role
-> Hybrid Engineer (AI + Backend Systems)
+> Hybrid Engineer (AI × Backend Systems)
 
-rohan@github:~$ specialization
+rohan@github:~$ focus
 > AI/ML | Backend Architectures | Intelligent Systems
 
 rohan@github:~$ languages
 > Python | TypeScript | Java | Go | C++ | PHP
 
-rohan@github:~$ current_focus
-> Self-healing APIs & context-aware systems
+rohan@github:~$ current
+> Self-healing APIs & context-aware pipelines
 
 rohan@github:~$ interests
 > Adaptive systems | Distributed systems | Fault-tolerant architectures
 
 rohan@github:~$ contact
+```
 
-Email    : rg2oob@gmail.com
-LinkedIn : linkedin.com/in/rohan-gupta-bbaa87271
-GitHub   : github.com/thatsrohan
-
-rohan@github:~$ status
-> Building systems that adapt, recover, and scale
-
-<p align="center">
+<p align="left" style="margin:0;">
 
 <a href="mailto:rg2oob@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/rohan-gupta-bbaa87271">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/thatsrohan">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
+
+```bash
+rohan@github:~$ status
+> building systems that adapt, recover, and scale
+```
