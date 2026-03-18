@@ -1,1 +1,39 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:7F00FF&height=120&section=header"/>
 
+```bash
+██████╗  ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██║  ██║██╔══██╗████╗  ██║
+██████╔╝██║   ██║███████║███████║██╔██╗ ██║
+██╔══██╗██║   ██║██╔══██║██╔══██║██║╚██╗██║
+██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+
+rohan@github:~$ whoami
+> Rohan Gupta
+
+rohan@github:~$ role
+> Hybrid Engineer (AI + Backend Systems)
+
+rohan@github:~$ specialization
+> AI/ML | Backend Architectures | Intelligent Systems
+
+rohan@github:~$ languages
+> Python | TypeScript | Java | Go | C++ | PHP
+
+rohan@github:~$ stack
+> FastAPI | TensorFlow | Node.js | Docker | FAISS | LangChain
+
+rohan@github:~$ current_focus
+> Self-healing APIs & context-aware systems
+
+rohan@github:~$ interests
+> RAG systems | Distributed systems | Fault-tolerant architectures
+
+rohan@github:~$ contact
+
+Email    : your-email@gmail.com  
+LinkedIn : linkedin.com/in/YOUR-LINK  
+GitHub   : github.com/thatsrohan
+
+rohan@github:~$ status
+> Building systems that adapt, recover, and scale
