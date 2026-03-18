@@ -20,19 +20,16 @@ rohan@github:~$ specialization
 rohan@github:~$ languages
 > Python | TypeScript | Java | Go | C++ | PHP
 
-rohan@github:~$ stack
-> FastAPI | TensorFlow | Node.js | Docker | FAISS | LangChain
-
 rohan@github:~$ current_focus
 > Self-healing APIs & context-aware systems
 
 rohan@github:~$ interests
-> RAG systems | Distributed systems | Fault-tolerant architectures
+> Adaptive systems | Distributed systems | Fault-tolerant architectures
 
 rohan@github:~$ contact
 
-Email    : your-email@gmail.com  
-LinkedIn : linkedin.com/in/YOUR-LINK  
+Email    : rg2oob@gmail.com
+LinkedIn : linkedin.com/in/rohan-gupta-bbaa87271
 GitHub   : github.com/thatsrohan
 
 rohan@github:~$ status
